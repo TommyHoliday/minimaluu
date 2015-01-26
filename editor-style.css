@@ -1,0 +1,242 @@
+/*
+Theme Name: minimaluu
+Description: Used to style the TinyMCE editor.
+*/
+
+
+html .mceContentBody {
+	font-size: 100%;
+	max-width: 935px;
+}
+body {
+	color: #000;
+	font-family: 'Raleway', sans-serif;
+	font-size:16px;
+	font-weight: normal;
+	line-height: 1.65;
+	text-rendering: optimizeLegibility;
+	vertical-align: baseline;
+}
+
+/* --- Headlines --- */
+h1, h2, h3, h4, h5, h6 {
+	font-weight: bold;
+}
+h1 {
+	margin: 44px 0 34px;
+	font-size: 22px;
+}
+h2 {
+	margin: 44px 0 34px;
+	font-size: 22px;
+	line-height: 1.35;
+}
+h3 {
+	margin: 34px 0 24px;
+	font-size: 20px;
+	line-height: 1.35;
+}
+h4 {
+	margin: 24px 0 24px;
+	font-size: 18px;
+	line-height: 1.35;
+}
+h5 {
+	margin: 24px 0 14px;
+	font-size: 16px;
+}
+h6 {
+	margin: 24px 0 14px;
+	font-size: 15px;
+}
+
+/* --- Text Elements --- */
+p {
+	margin: 0 0 34px;
+	line-height:1.65;
+}
+p strong {
+	font-weight: bold !important;
+}
+em {
+	font-style: italic;
+}
+p small {
+	font-size: .8em;
+}
+blockquote {
+	margin-left: 15px;
+	padding-left: 15px;
+	border-left: 1px solid #777;
+}
+blockquote p {
+	font-style: italic;
+}
+blockquote cite {
+	font-size: 15px;
+	font-style: normal;
+}
+blockquote cite:before {
+	content: '\2014';
+	display: inline;
+	padding: 0 5px 0 0;
+}
+p span.dropcap {
+	float: left;
+	padding: 0 8px 0 0;
+	font-size: 81px;
+	font-size:  5.063rem;
+	line-height: 0.97;
+	font-weight: bold;
+}
+pre {
+	max-width: 100%;
+	margin-bottom: 20px;
+	padding: 15px;
+	overflow: auto;
+	background: #f2f2f2;
+	font-family: Consolas, Monaco, monospace;
+	font-size: 12px;
+	font-size: 0.75rem;
+	line-height: 1.4;
+}
+address{
+	padding:0 0 30px;
+	line-height:1.7;
+}
+abbr,acronym {
+	border-bottom:.1em dotted;
+}
+mark, ins {
+	background: #fff9c0;
+	color: #3f3f3f;
+	text-decoration: none;
+}
+/* --- Images --- */
+img, .page img {
+	max-width:100%;
+	height: auto;
+	margin: 0;
+	padding: 0;
+}
+img[class*="wp-image-"] {
+	height: auto;
+	max-width: 97.5%;
+}
+img.size-full {
+	width: auto; /* Prevent stretching of full-size images in IE8 */
+}
+p img,
+.wp-caption {
+	margin-top: 0.4em;
+}
+.wp-caption {
+	border: none;
+	text-align: left;
+	background-color: #fff;
+	-webkit-border-radius:0;
+	border-radius: 0;
+}
+.wp-caption-dd {
+	font-size: 13px;
+	line-height: 1.35;
+	padding: 12px 0 24px;
+}
+img {
+	border: none;
+}
+img.alignleft,
+img.alignright,
+img.aligncenter {
+	margin-bottom: 1.625em;
+}
+.wp-caption {
+	width:auto !important;
+	max-width: 100%;
+	text-align: left;
+}
+.wp-caption .wp-caption-text {
+	margin: 0;
+	padding: 8px 0 10px;
+	font-size:.85em;
+}
+/* --- Tables --- */
+table {
+	font-family: 'Helvetica Neue', Arial, sans-serif;
+	border-collapse: collapse;
+	border-spacing: 0;
+	border-bottom: 1px solid #777;
+	line-height: 2;
+	margin: 0 0 40px;
+	width: 100%;
+	font-size:14px;
+	font-size:0.875rem;
+}
+table td {
+	border-top: 1px solid #777;
+	padding: 6px 10px 6px 0;
+}
+table caption {
+	margin: 40px 0;
+}
+table th {
+	font-weight: bold;
+	text-align:left;
+}
+
+/* --- List Elements --- */
+ol {
+	list-style:  decimal;
+	margin:0 0 30px 20px;
+}
+ul {
+    list-style: disc;
+	 margin:0 0 30px 20px;
+}
+ol ol,
+ul ul {
+	 margin:0 0 0 20px;
+}
+ul li,
+ol li {
+	display: list-item;
+	margin: 0;
+	padding: 0;
+	line-height:1.8;
+}
+/* --- Links --- */
+a,
+a em,
+a strong {
+	color: #000;
+	text-decoration: underline;
+}
+a:focus,
+a:active,
+a:hover {
+	color: #999;
+}
+/* --- Alignment --- */
+.alignleft,
+.alignright {
+	display: block;
+}
+.alignleft {
+	margin: 5px 30px 5px 0;
+	float: left;
+}
+.alignright {
+	margin: 5px 0 0 30px;
+	float: right;
+}
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	clear: both;
+}
+img.alignleft,
+img.alignright {
+	margin-top:10px;
+	margin-bottom:20px;
+}

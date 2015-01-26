@@ -1,0 +1,823 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: minimaluu v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-12 16:26+0100\n"
+"PO-Revision-Date: 2014-12-12 16:28+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ minimaluu
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Diese Seite konnte nicht gefunden werden."
+
+# @ minimaluu
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try another search "
+"term?"
+msgstr ""
+"Es scheint, als kann an dieser Stelle nichts gefunden werden. Vielleicht "
+"hilft die Suche mit einem anderen Suchbegriff?"
+
+# @ minimaluu
+#: archive.php:19
+#, php-format
+msgid "All posts filed under &ldquo;%s&rdquo;"
+msgstr "Alle Artikel in der Kategorie &ldquo;%s&rdquo;"
+
+# @ minimaluu
+#: archive.php:22
+#, php-format
+msgid "All posts tagged &ldquo;%s&rdquo;"
+msgstr "Alle Artikel mit dem Schlagwort &ldquo;%s&rdquo;"
+
+# @ minimaluu
+#: archive.php:29
+#, php-format
+msgid "All posts by &ldquo;%s&rdquo;"
+msgstr "Alle Artikel von &ldquo;%s&rdquo;"
+
+# @ minimaluu
+#: archive.php:37
+#, php-format
+msgid "Daily archives of &ldquo;%s&rdquo;"
+msgstr "Archiv vom &ldquo;%s&rdquo;"
+
+# @ minimaluu
+#: archive.php:40
+#, php-format
+msgid "Monthly archives of &ldquo;%s&rdquo;"
+msgstr "Archiv des Monats &ldquo;%s&rdquo;"
+
+# @ minimaluu
+#: archive.php:43
+#, php-format
+msgid "Yearly archives of &ldquo;%s&rdquo;"
+msgstr "Archiv von  &ldquo;%s&rdquo;"
+
+# @ minimaluu
+#: archive.php:46
+msgid "Archives"
+msgstr "Archiv"
+
+# @ minimaluu
+#: archive.php:80 search.php:31
+msgid "Nothing Found"
+msgstr "Keine Einträge gefunden"
+
+# @ minimaluu
+#: archive.php:84
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr "Es scheint als könnten wir nicht finden, wonach du suchst."
+
+# @ minimaluu
+#: comments.php:24
+#, php-format
+msgid "1 Comment so far"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Kommentar"
+msgstr[1] "%1$s Kommentare"
+
+# @ minimaluu
+#: comments.php:37
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Ältere Kommentare"
+
+# @ minimaluu
+#: comments.php:38
+msgid "Newer Comments &raquo;"
+msgstr "Neuere Kommentare &raquo;"
+
+# @ minimaluu
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+# @ minimaluu
+#: comments.php:55
+msgctxt "noun"
+msgid "Write your comment here... *"
+msgstr "Schreibe einen Kommentar... *"
+
+# @ minimaluu
+#: comments.php:56
+msgid "Post Comment"
+msgstr "Kommentar senden"
+
+# @ minimaluu
+#: content-single.php:16
+msgid "Pages:"
+msgstr "Seiten:"
+
+# @ minimaluu
+#: content-single.php:27
+msgid "Next"
+msgstr "Vorheriger"
+
+# @ minimaluu
+#: content-single.php:28
+msgid "Previous"
+msgstr "Nächster"
+
+#: content-single.php:34
+#, php-format
+msgid "<a href=\"%1$s\" title=\"%2$s\">%3$s</a>"
+msgstr "<a href=\"%1$s\" title=\"%2$s\">%3$s</a>"
+
+# @ minimaluu
+#: content-single.php:45 content.php:70
+msgid "comment 0"
+msgstr "Kommentare 0"
+
+# @ minimaluu
+#: content-single.php:45 content.php:40 content.php:70
+msgid "comment 1"
+msgstr "Kommentare 1"
+
+# @ minimaluu
+#: content-single.php:45 content.php:40 content.php:70
+msgid "comments %"
+msgstr "Kommentare %"
+
+# @ minimaluu
+#: content-single.php:60
+#, php-format
+msgid "Posted by %s"
+msgstr "Veröffentlicht von %s"
+
+# @ minimaluu
+#: content.php:16 content.php:18 content.php:20 content.php:22 content.php:24
+#: content.php:26 content.php:30 content.php:52 content.php:54 content.php:56
+#: content.php:60
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalink zu %s"
+
+# @ minimaluu
+#: content.php:40
+msgid "Leave a comment"
+msgstr "Schreibe einen Kommentar"
+
+# @ minimaluu
+#: functions.php:33
+msgid "Primary Navigation"
+msgstr "Haupt-Navigation"
+
+# @ minimaluu
+#: functions.php:108
+#, php-format
+msgid "Page %s"
+msgstr "Seite %s"
+
+# @ minimaluu
+#: functions.php:169
+msgid "Recent Post Thumbs"
+msgstr "Aktuell Beitragsbilder"
+
+# @ minimaluu
+#: functions.php:254
+#, php-format
+msgid " %s "
+msgstr " %s "
+
+# @ minimaluu
+#. translators: 1: date
+#: functions.php:260
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+# @ minimaluu
+#: functions.php:265
+msgid "Reply"
+msgstr "Antworten"
+
+# @ minimaluu
+#: functions.php:267 functions.php:288 image.php:25
+msgid "Edit"
+msgstr "Bearbeiten"
+
+# @ minimaluu
+#: functions.php:275
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar befindet sich in Moderation."
+
+# @ minimaluu
+#: functions.php:287
+msgid "<span>Pingback:</span>"
+msgstr "<span>Pingback:</span>"
+
+# @ minimaluu
+#: functions.php:303
+msgid "About Header Widget Area"
+msgstr "About Header Widgetbereich"
+
+# @ minimaluu
+#: functions.php:305
+msgid ""
+"Widget area to include the About (minimaluu) widget in the header area below "
+"the blog title. Please note that this widget area is only intended for the "
+"About (minimaluu) widget."
+msgstr ""
+"Widgetbereich, um das About (minimaluu) Widget in den Headerbereich "
+"unterhalb des Seiten-Titels zu integrieren. Bitte nutze in diesem "
+"Widgetbereich ausschliesslich das minimaluu About widget."
+
+# @ minimaluu
+#: functions.php:313
+msgid "Footer Widget Area 1"
+msgstr "Footer Widgetbereich 1"
+
+# @ minimaluu
+#: functions.php:315
+msgid "Widgets will appear in the first footer column."
+msgstr "Widgets werden in der ersten Footer-Spalte angezeigt."
+
+# @ minimaluu
+#: functions.php:323
+msgid "Footer Widget Area 2"
+msgstr "Footer Widgetbereich 2"
+
+# @ minimaluu
+#: functions.php:325
+msgid "Widgets will appear in the second footer column."
+msgstr "Widgets werden in der zweiten Footer-Spalte angezeigt."
+
+# @ minimaluu
+#: functions.php:333
+msgid "Footer Widget Area 3"
+msgstr "Footer Widgetbereich 3"
+
+# @ minimaluu
+#: functions.php:335
+msgid "Widgets will appear in the third footer column."
+msgstr "Widgets werden in der dritten Footer-Spalte angezeigt."
+
+# @ minimaluu
+#: functions.php:343
+msgid "Footer Widget Area 4"
+msgstr "Footer Widgetbereich 4"
+
+# @ minimaluu
+#: functions.php:345
+msgid "Widgets will appear in the fourth footer column."
+msgstr "Widgets werden in der vierten Footer-Spalte angezeigt."
+
+# @ minimaluu
+#: functions.php:353
+msgid "Social Links Footer Widget Area"
+msgstr "Social Links Footer Widgetbereich"
+
+# @ minimaluu
+#: functions.php:355
+msgid ""
+"Widget area to include the Social Links (minimaluu) widget above the footer "
+"credit text. Please note that this widget area is only intended for the "
+"Social Links widget."
+msgstr ""
+"Widgetbereich, um das Social Links (minimaluu) Widget oberhalb des Footer-"
+"Credittextes zu integrieren. Bitte nutze diesen Widgetbereich "
+"ausschliesslich für das Social Links widget."
+
+# @ minimaluu
+#: functions.php:379
+msgid "<span>Load more</span>"
+msgstr "<span>Weitere Beiträge laden</span>"
+
+# @ minimaluu
+#: functions.php:383
+msgid "<span>Older</span>"
+msgstr "<span>Ältere</span>"
+
+# @ minimaluu
+#: functions.php:384
+msgid "<span>Newer</span>"
+msgstr "<span>Neuere</span>"
+
+# @ minimaluu
+#: image.php:71
+msgid "Posted in: "
+msgstr "Veröffentlicht in: "
+
+#: image.php:81
+msgid "&laquo; Previous Image"
+msgstr "&laquo; Letztes Bild"
+
+#: image.php:81 image.php:82
+msgid "<span>"
+msgstr "<span>"
+
+#: image.php:82
+msgid "Next Image &raquo;"
+msgstr "Nächstes Bild &raquo;"
+
+# @ minimaluu
+#: inc/customizer.php:21
+msgid "Theme Options"
+msgstr "Theme Optionen"
+
+# @ minimaluu
+#: inc/customizer.php:32
+msgid "Default Image Grid"
+msgstr "Standard Bilder-Grid"
+
+# @ minimaluu
+#: inc/customizer.php:36
+msgid "1-column"
+msgstr "1-spaltig"
+
+# @ minimaluu
+#: inc/customizer.php:37
+msgid "2-column"
+msgstr "2-spaltig"
+
+# @ minimaluu
+#: inc/customizer.php:38
+msgid "3-column"
+msgstr "3-spaltig"
+
+# @ minimaluu
+#: inc/customizer.php:39
+msgid "4-column"
+msgstr "4-spaltig"
+
+# @ minimaluu
+#: inc/customizer.php:40
+msgid "5-column"
+msgstr "5-spaltig"
+
+# @ minimaluu
+#: inc/customizer.php:51
+msgid "Thumbnail Format"
+msgstr "Vorschaubild-Format"
+
+# @ minimaluu
+#: inc/customizer.php:55
+msgid "Landscape"
+msgstr "Querformat"
+
+# @ minimaluu
+#: inc/customizer.php:56
+msgid "Portrait"
+msgstr "Hochformat"
+
+# @ minimaluu
+#: inc/customizer.php:57
+msgid "Square"
+msgstr "Quadrat"
+
+# @ minimaluu
+#: inc/customizer.php:67
+msgid "Load older posts via Ajax"
+msgstr "Lade ältere Beiträge via Ajax"
+
+# @ minimaluu
+#: inc/customizer.php:77
+msgid "Custom Footer Text"
+msgstr "Eigener Footertext"
+
+# @ minimaluu
+#: inc/widgets.php:18
+msgid "Show icons with links to your social profiles"
+msgstr "Zeige Icons mit Links zu deinen sozialen Profilen"
+
+# @ minimaluu
+#: inc/widgets.php:20
+msgid "Social Links (minimaluu)"
+msgstr "Social Links (minimaluu)"
+
+# @ minimaluu
+#: inc/widgets.php:62
+msgid "Twitter"
+msgstr "Twitter"
+
+# @ minimaluu
+#: inc/widgets.php:68
+msgid "Facebook"
+msgstr "Facebook"
+
+# @ minimaluu
+#: inc/widgets.php:74
+msgid "Google+"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:80
+msgid "App.net"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:85
+msgid "Flickr"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:90
+msgid "Instagram"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:95
+msgid "Picasa"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:100
+msgid "500px"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:105
+msgid "YouTube"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:110
+msgid "Vimeo"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:115
+msgid "Dribbble"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:120
+msgid "Ffffound"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:125
+msgid "Pinterest"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:130
+msgid "Behance Network"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:135
+msgid "deviantART"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:140
+msgid "Squidoo"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:145
+msgid "Slideshare"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:150
+msgid "Lastfm"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:155
+msgid "Grooveshark"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:160
+msgid "Soundcloud"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:165
+msgid "Foursquare"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:170
+msgid "GitHub"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:175
+msgid "LinkedIn"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:180
+msgid "Xing"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:185
+msgid "WordPress"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:190
+msgid "Tumblr"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:195
+msgid "RSS Feed"
+msgstr ""
+
+# @ minimaluu
+#: inc/widgets.php:200
+msgid "RSS Comments"
+msgstr "RSS Kommentare"
+
+# @ minimaluu
+#: inc/widgets.php:252
+msgid "Title:"
+msgstr "Titel:"
+
+# @ minimaluu
+#: inc/widgets.php:257
+msgid "Twitter URL:"
+msgstr "Twitter URL:"
+
+# @ minimaluu
+#: inc/widgets.php:262
+msgid "Facebook URL:"
+msgstr "Facebook URL:"
+
+# @ minimaluu
+#: inc/widgets.php:267
+msgid "Google+ URL:"
+msgstr "Google+ URL:"
+
+# @ minimaluu
+#: inc/widgets.php:272
+msgid "App.net URL:"
+msgstr "App.net URL:"
+
+# @ minimaluu
+#: inc/widgets.php:277
+msgid "Flickr URL:"
+msgstr "Flickr URL:"
+
+# @ minimaluu
+#: inc/widgets.php:282
+msgid "Instagram URL:"
+msgstr "Instagram URL:"
+
+# @ minimaluu
+#: inc/widgets.php:287
+msgid "Picasa URL:"
+msgstr "Picasa URL:"
+
+# @ minimaluu
+#: inc/widgets.php:292
+msgid "500px URL:"
+msgstr "500px URL:"
+
+# @ minimaluu
+#: inc/widgets.php:297
+msgid "YouTube URL:"
+msgstr "YouTube URL:"
+
+# @ minimaluu
+#: inc/widgets.php:302
+msgid "Vimeo URL:"
+msgstr "Vimeo URL:"
+
+# @ minimaluu
+#: inc/widgets.php:307
+msgid "Dribbble URL:"
+msgstr "Dribbble URL:"
+
+# @ minimaluu
+#: inc/widgets.php:312
+msgid "Ffffound URL:"
+msgstr "Ffffound URL:"
+
+# @ minimaluu
+#: inc/widgets.php:317
+msgid "Pinterest URL:"
+msgstr "Pinterest URL:"
+
+# @ minimaluu
+#: inc/widgets.php:322
+msgid "Behance Network URL:"
+msgstr "Behance Network URL:"
+
+# @ minimaluu
+#: inc/widgets.php:327
+msgid "deviantART URL:"
+msgstr "deviantART URL:"
+
+# @ minimaluu
+#: inc/widgets.php:332
+msgid "Squidoo URL:"
+msgstr "Squidoo URL:"
+
+# @ minimaluu
+#: inc/widgets.php:337
+msgid "Slideshare URL:"
+msgstr "Slideshare URL:"
+
+# @ minimaluu
+#: inc/widgets.php:342
+msgid "Last.fm URL:"
+msgstr "Last.fm URL:"
+
+# @ minimaluu
+#: inc/widgets.php:347
+msgid "Grooveshark URL:"
+msgstr "Grooveshark URL:"
+
+# @ minimaluu
+#: inc/widgets.php:352
+msgid "Soundcloud URL:"
+msgstr "Soundcloud URL:"
+
+# @ minimaluu
+#: inc/widgets.php:357
+msgid "Foursquare URL:"
+msgstr "Foursquare URL:"
+
+# @ minimaluu
+#: inc/widgets.php:362
+msgid "GitHub URL:"
+msgstr "GitHub URL:"
+
+# @ minimaluu
+#: inc/widgets.php:367
+msgid "Linkedin URL:"
+msgstr "Linkedin URL:"
+
+# @ minimaluu
+#: inc/widgets.php:372
+msgid "Xing URL:"
+msgstr "Xing URL:"
+
+# @ minimaluu
+#: inc/widgets.php:377
+msgid "WordPress URL:"
+msgstr "WordPress URL:"
+
+# @ minimaluu
+#: inc/widgets.php:382
+msgid "Tumblr URL:"
+msgstr "Tumblr URL:"
+
+# @ minimaluu
+#: inc/widgets.php:387
+msgid "RSS-Feed URL:"
+msgstr "RSS-Feed URL:"
+
+# @ minimaluu
+#: inc/widgets.php:392
+msgid "RSS for Comments URL:"
+msgstr "RSS der Kommentare URL:"
+
+# @ minimaluu
+#: inc/widgets.php:412
+msgid "About (minimaluu)"
+msgstr "About (minimaluu)"
+
+# @ minimaluu
+#: inc/widgets.php:431
+msgid "more info"
+msgstr "weitere Info"
+
+# @ minimaluu
+#: inc/widgets.php:441
+msgid "close"
+msgstr "schließen"
+
+# @ minimaluu
+#: inc/widgets.php:465
+msgid "Short About Intro Text:"
+msgstr "kurzer About Intro-Text:"
+
+# @ minimaluu
+#: inc/widgets.php:470
+msgid "Further About Text (hidden by default):"
+msgstr "Weiterer About-Text (erst bei Mausklick sichtbar)"
+
+# @ minimaluu
+#: inc/widgets.php:475
+msgid "Image URL:"
+msgstr "Bild URL:"
+
+# @ minimaluu
+#: inc/widgets.php:480
+msgid "Image Width (e.g. 233):"
+msgstr "Bild-Breite (z.B. 233):"
+
+# @ minimaluu
+#: inc/widgets.php:485
+msgid "Image Height (e.g. 233):"
+msgstr "Bild-Höhe (z.B. 233):"
+
+# @ minimaluu
+#: inc/widgets.php:490
+msgid "About Image Caption Text:"
+msgstr "About-Bildunterschrift"
+
+# @ minimaluu
+#: search.php:15
+#, php-format
+msgid "Search Results for &ldquo;%s&rdquo;"
+msgstr "Suchergebnisse für &ldquo;%s&rdquo;"
+
+# @ minimaluu
+#: search.php:34
+msgid "Sorry, but nothing matched your search criteria. Please try again!"
+msgstr ""
+"Entschuldige, es konnten keine Einträge gefunden werden. Bitte versuche es "
+"erneut!"
+
+# @ minimaluu
+#~ msgid "Menu"
+#~ msgstr "Menü"
+
+# @ minimaluu
+#~ msgctxt "submit button"
+#~ msgid "Search"
+#~ msgstr "Suche"
+
+# @ minimaluu
+#~ msgid "Link Color"
+#~ msgstr "Linkfarbe"
+
+# @ minimaluu
+#~ msgid "Link Hover Color"
+#~ msgstr "Link-Hoverfarbe"
+
+# @ minimaluu
+#~ msgid "by <a href=\"%1$s\" title=\"%2$s\">%3$s</a>"
+#~ msgstr "von <a href=\"%1$s\" title=\"%2$s\">%3$s</a>"
+
+# @ minimaluu
+#~ msgid "All posts by %s"
+#~ msgstr "Alle Artikel von %s"
+
+# @ minimaluu
+#~ msgid "Theme: %1$s by %2$s."
+#~ msgstr "Theme: %1$s von %2$s."
+
+# @ minimaluu
+#~ msgid "List"
+#~ msgstr "Liste"
+
+# @ minimaluu
+#~ msgid "Grid"
+#~ msgstr "Grid"
+
+# @ minimaluu
+#~ msgid "<span>&laquo; Previous Image"
+#~ msgstr "<span>&laquo; Vorheriges Bild"
+
+# @ minimaluu
+#~ msgid "<span>Next Image &raquo;"
+#~ msgstr "<span>Nächstes Bild &raquo;"
+
+# @ minimaluu
+#~ msgid "Hide Tagline only"
+#~ msgstr "Nur den Untertitel verbergen"
+
+# @ minimaluu
+#~ msgid "Footer Background Color"
+#~ msgstr "Footer Hintergrundfarbe"
+
+# @ minimaluu
+#~ msgid "Sidebar (fixed sidebar may only be visible on wide screens)"
+#~ msgstr ""
+#~ "Sidebar (fixed Sidebar wird nur auf größeren Bildschirmgrößen angezeigt)"
+
+# @ minimaluu
+#~ msgid "scroll"
+#~ msgstr "scroll"
+
+# @ minimaluu
+#~ msgid "fixed"
+#~ msgstr "fixed"
+
+# @ minimaluu
+#~ msgctxt "placeholder"
+#~ msgid "Search &hellip;"
+#~ msgstr "Suche &hellip;"
+
+# @ minimaluu
+#~ msgid "Show Share Buttons on Single posts"
+#~ msgstr "Zeige Teilen-Buttons auf Einzel-Artikeln"
+
+# @ minimaluu
+#~ msgid "Tweet"
+#~ msgstr "Twitter"
