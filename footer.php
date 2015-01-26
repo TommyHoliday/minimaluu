@@ -14,12 +14,6 @@
 
 	<div id="site-info">
 
-		<?php if ( is_active_sidebar( 'footer-sidebar-social' ) ) : ?>
-			<div id="sidebar-footer-social" class="widget-area">
-				<?php dynamic_sidebar( 'footer-sidebar-social' ); ?>
-			</div><!-- .widget-area -->
-		<?php endif; ?>
-
 		<ul class="credit" role="contentinfo">
 			<li class="wp-credit">
 			<?php if ( get_theme_mod( 'footer_text' ) ) : ?>
