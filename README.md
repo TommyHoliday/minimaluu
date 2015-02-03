@@ -4,6 +4,7 @@
 minimaluu is a minimal and clean Wordpress Theme for Creatives.
 
 Check out a real life demo at http://minimaluu-demo.thomasveit.com
+Landingpage / Featurelist http://minimaluu.thomasveit.com
 
 == Features ==
 --------------
